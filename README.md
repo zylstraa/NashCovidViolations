@@ -1,5 +1,8 @@
 ## Data Question 4: Nashville COVID-19 Violations
 
+*This project was for Nashville Software School to be completed as a group. My contribution to the project were the notebooks working on Parts 1 & 3.*
+
+
 In this project, you will explore COVID-19 violations reported to hubNashville, Metro Nashville government's comprehensive customer service system. 
 
 ### Part 1:
